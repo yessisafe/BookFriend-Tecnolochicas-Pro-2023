@@ -34,3 +34,8 @@ main .cuadrito {
     height: 100%;
 
 }
+
+main .columns .column .card {
+    height: 880px;
+}
+
