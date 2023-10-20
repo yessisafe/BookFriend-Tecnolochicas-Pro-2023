@@ -35,7 +35,23 @@ main .cuadrito {
 
 }
 
+    /* AQUI SE CAMBIA EL TAMAÑO DE LA CARD */
 main .columns .column .card {
-    height: 880px;
+    height: 1120px;
+}
+
+    /* AQUI SE CAMBIA EL TAMAÑO DE LA IMAGEN DE LA CARD */
+.tamano {
+    height: 500px;
+}
+
+    /* SE CENTRA EL TEXTO DE LA CARD */
+.centro {
+    text-align: center;
+}
+
+    /* SE USA LA PROPIEDAD JUSTIFY PARA JUSTIFICAR EL TEXTO */
+.justificar {
+    text-align: justify;
 }
 
