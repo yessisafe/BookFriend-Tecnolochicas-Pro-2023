@@ -1,6 +1,6 @@
 *{
-    margin: 0;
     padding: 0;
+    margin: 0;
     box-sizing: border-box;
 }
 
@@ -9,6 +9,13 @@ body {
     font-size: 13px;
     background-color: #E6E6E6;
 }
+
+    /* BARRA DE NAVEGACION FIJA */
+/* .navegacion {
+    width: 100%;
+    position: fixed;
+    z-index: 80;
+} */
 
 #book-friend {
     font-family: Carter One;
@@ -35,9 +42,15 @@ main .cuadrito {
 
 }
 
+/* TITULO GENEROS LITERARIOS */
+.genero {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
     /* AQUI SE CAMBIA EL TAMAÑO DE LA CARD */
 main .columns .column .card {
-    height: 1140px;
+    height: 1150px;
 }
 
     /* AQUI SE CAMBIA EL TAMAÑO DE LA IMAGEN DE LA CARD */
